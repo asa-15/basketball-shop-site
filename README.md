@@ -13,11 +13,13 @@ A basketball-themed e-commerce site created for a university web development con
 - HTML / CSSのみで構築（JavaScriptは未使用）
 - 商品詳細ページは、左上の商品からのみアクセス可能
 - 著作権の関係で `/images` フォルダは削除済み
+- レスポンシブ対応していません。
 
 ## 制作背景
 
 進級制作と時期が重なっていたため、限られた時間で完成度を高めることが課題でした。  
 凝ったギミックよりも、基礎に忠実で見やすいUIとレイアウト設計に力を入れました。
+
 
 ## 使用技術
 
